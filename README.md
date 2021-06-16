@@ -40,7 +40,7 @@ def main():
    totPop = sum(pop)
    totFish = sum(fishers)
 
-   # write your solution here
+   # EXTENSIVE MARKET RESEARCH AND FOCUSED GROUPS TO BUILD BRAND AMABASSADORS AMONGST THE CUSTOMERS
 
    for i in range(len(countries)):
       print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
@@ -61,11 +61,11 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+TIME AND SPACE
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+EXTENSIVE DATA AND FEED BACK  
 
 
 ## Acknowledgments
